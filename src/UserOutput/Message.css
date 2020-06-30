@@ -1,0 +1,18 @@
+.Message{
+    width: 50%;
+    background-color:#EBD8D0;
+    border-radius: 8px;
+    box-shadow: 0 2px 3px #eee;
+    padding: 8px 10px;
+    margin-top: 20px;
+}
+.Message p{
+    margin: 0px;
+    line-height: 1.5;
+}
+.Message h4{
+    color: #251605;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
